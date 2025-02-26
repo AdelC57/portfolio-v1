@@ -43,10 +43,10 @@
         <!-- Carte Réalisation 1 -->
         <div class="realisation-card" @click="openModal(projects[0])">
           <div class="realisation-image">
-            <img src="../assets/realisation1.png" alt="Réalisation 1" />
+            <img src="../assets/realisation1.jpg" alt="Réalisation 1" />
           </div>
           <div class="realisation-content">
-            <h3>Projet 1</h3>
+            <h3>Doctolib</h3>
             <p>Description du projet et des technologies utilisées.</p>
           </div>
         </div>
@@ -54,10 +54,10 @@
         <!-- Carte Réalisation 2 -->
         <div class="realisation-card" @click="openModal(projects[1])">
           <div class="realisation-image">
-            <img src="../assets/realisation2.png" alt="Réalisation 2" />
+            <img src="../assets/realisation2.jpg" alt="Réalisation 2" />
           </div>
           <div class="realisation-content">
-            <h3>Projet 2</h3>
+            <h3>MyBoulanger</h3>
             <p>Description du projet et des technologies utilisées.</p>
           </div>
         </div>
@@ -65,10 +65,10 @@
         <!-- Carte Réalisation 3 -->
         <div class="realisation-card" @click="openModal(projects[2])">
           <div class="realisation-image">
-            <img src="../assets/realisation3.png" alt="Réalisation 3" />
+            <img src="../assets/realisation3.jpg" alt="Réalisation 3" />
           </div>
           <div class="realisation-content">
-            <h3>Projet 3</h3>
+            <h3>Site E-Commerce</h3>
             <p>Description du projet et des technologies utilisées.</p>
           </div>
         </div>
@@ -178,7 +178,7 @@
   <footer class="footer">
     <div class="footer-content">
       <div class="footer-logo">
-        <img src="../assets/logo-footer.png" alt="Logo" />
+        <img src="../assets/logo.png" alt="Logo" />
         <h3>Mon Portfolio</h3>
       </div>
 
