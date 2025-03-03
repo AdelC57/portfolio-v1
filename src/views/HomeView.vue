@@ -225,10 +225,10 @@ export default {
       projects: [
         {
           id: 1,
-          title: 'Projet 1',
+          title: 'Doctolib',
           description:
             'Description détaillée du projet 1. Ce projet a été réalisé dans le cadre de ma formation et a permis de mettre en pratique mes compétences en développement front-end.',
-          image: '../assets/realisation1.png',
+          image: '../assets/realisation1.jpg',
           date: 'Janvier 2025',
           technologies: ['HTML5', 'CSS3', 'JavaScript', 'Vue.js'],
           siteUrl: 'https://exemple.com/projet1',
@@ -236,10 +236,10 @@ export default {
         },
         {
           id: 2,
-          title: 'Projet 2',
+          title: 'MyBoulanger',
           description:
             'Description détaillée du projet 2. Ce projet a consisté à développer une application web interactive avec une interface utilisateur moderne et intuitive.',
-          image: '../assets/realisation2.png',
+          image: '../assets/realisation2.jpg',
           date: 'Février 2025',
           technologies: ['Vue.js', 'Node.js', 'Express', 'MongoDB'],
           pdfUrl: '../assets/projet2.pdf',
@@ -247,10 +247,10 @@ export default {
         },
         {
           id: 3,
-          title: 'Projet 3',
+          title: 'Site E-Commerce',
           description:
             "Description détaillée du projet 3. Ce projet m'a permis d'explorer des technologies avancées et de résoudre des problématiques complexes en matière de développement web.",
-          image: '../assets/realisation3.png',
+          image: '../assets/realisation3.jpg',
           date: 'Mars 2025',
           technologies: ['React', 'Firebase', 'Tailwind CSS'],
           siteUrl: 'https://exemple.com/projet3',
